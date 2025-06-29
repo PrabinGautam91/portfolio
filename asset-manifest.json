@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//prabingautam91.github.io/portfolio/static/css/main.aaaf5fb8.css",
+    "main.js": "//prabingautam91.github.io/portfolio/static/js/main.6ec69df7.js",
+    "index.html": "//prabingautam91.github.io/portfolio/index.html",
+    "main.aaaf5fb8.css.map": "//prabingautam91.github.io/portfolio/static/css/main.aaaf5fb8.css.map",
+    "main.6ec69df7.js.map": "//prabingautam91.github.io/portfolio/static/js/main.6ec69df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf5fb8.css",
+    "static/js/main.6ec69df7.js"
+  ]
+}
